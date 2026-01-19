@@ -1,4 +1,4 @@
-## 📸 Sample Outputs
+## Sample Outputs
 
 -Patient Table
 -Appointment Table
