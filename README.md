@@ -30,5 +30,3 @@ The project demonstrates database design concepts, including tables, relationshi
 - Data normalization
 
 ---
-```bash
-git clone https://github.com/your-username/Hospital-DBMS.git
