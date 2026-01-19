@@ -3,6 +3,7 @@
 This repository contains a **Hospital Management System Database** implemented using **Python and SQLite**.  
 The project demonstrates database design concepts, including tables, relationships, constraints, and data integrity.
 
+Data - Randomly generated Indian sample data
 
 ##  Technologies Used
 - Python
