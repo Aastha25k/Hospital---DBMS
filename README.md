@@ -1,2 +1,37 @@
-# Hospital---DBMS
-Hospital Management System Database using Python and SQLite
+# Hospital Management System DBMS
+
+This repository contains a **Hospital Management System Database** implemented using **Python and SQLite**.  
+The project demonstrates database design concepts, including tables, relationships, constraints, and data integrity.
+
+
+##  Technologies Used
+- Python
+- SQLite
+- Pandas (for data display)
+- Google Colab
+
+---
+
+##  Database Tables
+- Patient
+- Doctor
+- Department
+- Appointment
+- Prescription
+- Billing
+
+---
+
+##  Key Concepts Implemented
+- Primary Keys
+- Foreign Keys
+- Constraints (NOT NULL, UNIQUE, CHECK, DEFAULT)
+- One-to-Many relationships
+- Data normalization
+
+---
+
+## ▶️ How to Run
+1. Clone the repository:
+```bash
+git clone https://github.com/your-username/Hospital-DBMS.git
