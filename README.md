@@ -30,8 +30,5 @@ The project demonstrates database design concepts, including tables, relationshi
 - Data normalization
 
 ---
-
-## ▶️ How to Run
-1. Clone the repository:
 ```bash
 git clone https://github.com/your-username/Hospital-DBMS.git
